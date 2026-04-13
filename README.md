@@ -1,6 +1,6 @@
 # SPI Tx/Rx IP Core — RTL to GDSII on SkyWater 130nm
 
-> **VLSI Minor Degree Project** | IIIT Dharwad, AY 2025–2026  
+> **VLSI Minor Degree Project** | IIIT Dharwad, Academic Year 2025–2026  
 > Students: **Harikesh P** (22BEC016) · **Sameera T N** (22BEC047)  
 > Supervisor: **Dr. Jagadish D N**, Dept. of ECE
 
